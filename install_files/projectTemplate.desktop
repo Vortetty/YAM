@@ -1,0 +1,17 @@
+# Don't change this, it tells everything what this specifies
+[Desktop Entry]
+
+# Program name
+Name=Test Template Program
+
+# Executable, should be exact
+Exec=/opt/projectTemplate/main
+
+# Icon, should be exact
+Icon=/opt/projectTemplate/icon.ico
+
+# Unless this isn't a terminal app, leave false
+Terminal=true
+
+# Don't change, this is an application
+Type=Application
